@@ -1,20 +1,20 @@
 # Relay Management Console
-Defunct version of Relay with a GUI.
+Relay with a GUI.
 
-## Project setup
+## NOTICE
+This project is no longer being maintained. We use the Relay repo. We may restart this project in the future.
+
+## Package installation
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile and minify for production
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
