@@ -1,4 +1,5 @@
-# rmc
+# Relay Management Console
+Defunct version of Relay with a GUI.
 
 ## Project setup
 ```
