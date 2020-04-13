@@ -1,7 +1,7 @@
 # Relay Management Console
 Relay with a GUI.
 
-## NOTICE
+### NOTICE
 This project is no longer being maintained. We use the Relay repo. We may restart this project in the future.
 
 ## Package installation
